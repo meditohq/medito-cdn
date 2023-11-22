@@ -1,0 +1,5 @@
+name = "r2-cdn"
+main = "src/index.js"
+compatibility_date = "2023-11-22"
+[placement]
+mode = "smart"
