@@ -8,5 +8,8 @@
   "scripts": {
     "start": "wrangler dev",
     "deploy": "wrangler deploy"
+  },
+  "engines": {
+    "node": ">=22.0.0"
   }
 }
